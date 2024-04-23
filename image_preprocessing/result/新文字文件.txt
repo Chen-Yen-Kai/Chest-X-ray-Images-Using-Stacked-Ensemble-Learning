@@ -1,0 +1,1 @@
+影像編號_MinY_MaxY_MinX_MaxX_圖像尺寸
